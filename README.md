@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AshishKhadka1
 - 👀 I’m interested in programing.
 - 🌱 I’m currently learning basics program. 
-- 💞️ I am having fun during programming.
+- 💞️ I am having preety much hard time learning programming.
 - 📫 How to reach me : khadkaashish50@gmail.com
 
 <!---

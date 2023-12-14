@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **College projects with my friends**
 
-- 🌱 I’m currently learning **advance java , **javascript
+- 🌱 I’m currently learning **advanced java** , **javascript**
 
 - 📫 How to reach me **khadkaashish50@gmail.com**
 

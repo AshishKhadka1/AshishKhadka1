@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" />
 </p>
 
-<h1 align="center">Hi 👋, I'm AshishKhadka</h1>
+<h1 align="center">Hi 👋, I'm Ashish Khadka</h1>
 <h3 align="center">A passionate Web developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/khadkaashish50" target="blank"><img src="https://img.shields.io/twitter/follow/khadkaashish50?logo=twitter&style=for-the-badge" alt="khadkaashish50" /></a> </p>
 
-- 🔭 I’m currently working on **College projects**
+- 🔭 I’m currently working on **College projects with my friends**
 
-- 🌱 I’m currently learning **java , c++**
+- 🌱 I’m currently learning **advance java , **javascript
 
 - 📫 How to reach me **khadkaashish50@gmail.com**
 

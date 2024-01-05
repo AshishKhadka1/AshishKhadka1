@@ -13,11 +13,11 @@
 
 - 🔭 I’m currently working on **College projects with my friends**
 
-- 🌱 I’m currently learning **advanced java** , **javascript**
+- 🌱 I’m currently learning **React** , **javascript**, **NodeJS**
 
 - 📫 How to reach me **khadkaashish50@gmail.com**
 
-- ⚡ Fun fact **I am kind of funny**
+- ⚡ **Always learning new things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,9 +1,9 @@
 <p align="center">
-
+<img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ashish Khadka</h1>
-<h3 align="center">A passionate Web developer from Nepal</h3>
+<h1 align="center">👋, Ashish Khadka</h1>
+<h3 align="center">A passionate Web developer </h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkhadka1&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkhadka1" /> </p>
@@ -12,13 +12,13 @@
 
 - 🔭 I’m currently working on **Basic Projects**
 
-- 🌱 I’m currently learning **Py**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **khadkaashish50@gmail.com**
 
 - ⚡ **Always a Learner**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Language:</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>

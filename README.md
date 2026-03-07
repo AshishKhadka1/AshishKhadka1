@@ -11,13 +11,13 @@
 
 <p align="left"> <a href="https://twitter.com/khadkaashish50" target="blank"><img src="https://img.shields.io/twitter/follow/khadkaashish50?logo=twitter&style=for-the-badge" alt="khadkaashish50" /></a> </p>
 
-- 🔭 I’m currently working on **College projects with my friends**
+- 🔭 I’m currently working on **Basic Projects**
 
-- 🌱 I’m currently learning **React** , **javascript**, **NodeJS**
+- 🌱 I’m currently learning **Py**
 
 - 📫 How to reach me **khadkaashish50@gmail.com**
 
-- ⚡ **Always learning new things**
+- ⚡ **Always a Learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

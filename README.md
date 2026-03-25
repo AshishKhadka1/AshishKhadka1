@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" />
 </p>
 
-<h1 align="center">👋, Ashish Khadka</h1>
+<h1 align="center">👋</h1>
 <h3 align="center">A passionate Web developer </h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
@@ -18,11 +18,22 @@
 
 - ⚡ **Always a Learner**
 
-<h3 align="left">Language:</h3>
+<h3 align="left">Language :</h3>
 <p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  </a>
+
+  <!-- Laravel (FIXED) -->
+  <a href="https://laravel.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" height="40"/>
+  </a>
+
+  <!-- Vue -->
+  <a href="https://vuejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
+  </a>
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkhadka1&" alt="ashishkhadka1" /></p>

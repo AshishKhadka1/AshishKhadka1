@@ -8,32 +8,39 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkhadka1&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkhadka1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/khadkaashish50" target="blank"><img src="https://img.shields.io/twitter/follow/khadkaashish50?logo=twitter&style=for-the-badge" alt="khadkaashish50" /></a> </p>
+- 🔭 Currently working on **Projects to strengthen fundamentals**
 
-- 🔭 I’m currently working on **Basic Projects**
+- 🌱 Learning **Python, Laravel & Vue**
 
-- 🌱 I’m currently learning **Python**
+- 📫 How to reach me **ashishkhadka135@gmail.com**
 
-- 📫 How to reach me **khadkaashish50@gmail.com**
+- ⚡ **Always Learning**
 
-- ⚡ **Always a Learner**
+<h3 align="center">🛠️ Tech Stack</h3>
+<table align="center">
+<tr>
+<td align="center">
+  <strong>Languages</strong><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+</td>
 
-<h3 align="left">Language :</h3>
-<p align="left">
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
+<td align="center">
+  <strong>Frontend</strong><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50"/>
+</td>
 
-  <!-- Laravel (FIXED) -->
-  <a href="https://laravel.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" height="40"/>
-  </a>
+<td align="center">
+  <strong>Backend</strong><br/>
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="50"/>
+</td>
+</tr>
+</table>
 
-  <!-- Vue -->
-  <a href="https://vuejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
-  </a>
+---
+### 📊 GitHub Stats
+<p>
+  <img 
+    src="https://streak-stats.demolab.com?user=ashishkhadka1&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+  />
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkhadka1&" alt="ashishkhadka1" /></p>

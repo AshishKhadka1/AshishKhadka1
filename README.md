@@ -9,7 +9,6 @@
 
 <a href="mailto:khadkaashish50@gmail.com"><img src="https://img.shields.io/badge/Gmail-khadkaashish50%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://linkedin.com/in/ashishkhadka1"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/ashishkhadka1"><img src="https://img.shields.io/badge/GitHub-ashishkhadka1-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Nepal-🇳🇵-informational?style=flat-square"/><br>
 
 <img src="https://komarev.com/ghpvc/?username=ashishkhadka1&color=58A6FF&style=flat-square&label=Profile+Views"/>
@@ -29,11 +28,11 @@ const ashish = {
   location   : "Nepal 🇳🇵  —  open to remote",
   available  : true,  // actively looking for opportunities
 
-  stack      : ["Laravel", "Vue.js", "Python", "JavaScript", "MySQL"],
-  learning   : ["DevOps", "Testing/TDD", "REST API Design"],
+  stack      : ["Laravel", "Vue.js", "Python", "MySQL"],
+  learning   : ["Machine Learning"],
 
   values     : ["Clean code", "Scalability", "Team collaboration"],
-  contact    : "khadkaashish50@gmail.com",
+  contact    : "khadkaashish135@gmail.com",
 };
 ```
 

@@ -18,7 +18,10 @@
 
 <br/>
 
-### 👨‍💻 &nbsp;About Me
+<div align="center">
+👨‍💻 &nbsp;About Me
+
+</div>
 
 ```typescript
 const ashish = {
@@ -34,10 +37,10 @@ const ashish = {
 };
 ```
 
+<div align="center">
 
 ### 🛠 &nbsp;Tech Stack
 
-<div align="center">
 
 **Languages**
 
@@ -69,24 +72,23 @@ const ashish = {
 <br/>
 
 
-### 📊 &nbsp;GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=ashishkhadka1&theme=tokyonight&hide_border=true"/>
+</p
+<br>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=ashishkhadka1&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-
-<br/>
-
-
+<div align="center">
+  
 ### 📅 &nbsp;2025 Learning Goals
 
-| # | Goal | Progress |
-|---|------|----------|
-| 1 | Laravel · REST APIs · Authentication | `████████░░` 75% |
-| 2 | Vue.js Composition API + Pinia | `███████░░░` 65% |
-| 3 | Python for backend scripting | `█████░░░░░` 50% |
-| 4 | Writing tests (PHPUnit / Pytest) | `███░░░░░░░` 30% |
-| 5 | CI/CD · Docker · Deployment | `██░░░░░░░░` 20% |
-
-<br/>
+| SN | Goal | Description |
+|---|------|------------|
+| 1 | Laravel · REST APIs · Authentication | Build secure backend systems and APIs |
+| 2 | Vue.js Composition API  | Modern state management and frontend architecture |
+| 3 | Python for backend scripting | Automation and backend utilities |
+| 4 | Machine Learning basics | Introduction to ML concepts and models |
+| 5 | Strong Math foundation for CS | Improve logic, problem-solving, and algorithms |
+</div>
 
 <div align="center">
 

@@ -75,7 +75,7 @@ const ashish = {
 </p
 <br>
 
-<div align="center">
+<!-- <div align="center">
   
 ### 📅 &nbsp;2025 Learning Goals
 
@@ -86,7 +86,7 @@ const ashish = {
 | 3 | Python for backend scripting | Automation and backend utilities |
 | 4 | Machine Learning basics | Introduction to ML concepts and models |
 | 5 | Strong Math foundation for CS | Improve logic, problem-solving, and algorithms |
-</div>
+</div> -->
 
 <div align="center">
 

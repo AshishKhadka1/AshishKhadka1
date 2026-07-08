@@ -24,14 +24,14 @@
 
 ```typescript
 const ashish = {
-  role       : "Full Stack Web Developer",
+  role       : "Web Developer",
   location   : "Nepal 🇳🇵 ",
 
-  stack      : ["Laravel", "Vue.js", "MySQL"],
+  stack      : ["Laravel", "Vue.js", "MySQL", "SQL"],
   learning   : ["Py, ML"],
 
   values     : ["Clean code", "Scalability", "Team collaboration"],
-  contact    : "khadkaashish135@gmail.com",
+  contact    : "ashishkhadka135@gmail.com",
 };
 ```
 
@@ -65,13 +65,13 @@ const ashish = {
 
 </div>
 
-<br/>
+<!-- <br/> -->
 
 
-<p align="center">
+<!-- <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=ashishkhadka1&theme=tokyonight&hide_border=true"/>
 </p
-<br>
+<br> -->
 
 <!-- <div align="center">
   
